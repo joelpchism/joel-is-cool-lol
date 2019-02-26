@@ -9,7 +9,7 @@ while game_is_running:
 
   print("The Options...")
   
-  options2 = {'dog': "meat", 'fish': "seaweed", "bird": "seeds",'muffin': "bluberry",'puffin': "fish",'shark': "fish",'killer whale': "shark",'cow': "grass",'apple': "google",}
+  options2 = {'dog': "meat", 'fish': "seaweed", "bird": "seeds",'muffin': "bluberry muffin",'puffin': "fish",'shark': "fish",'killer whale': "shark",'cow': "grass",'apple': "google",}
 
   for item in options2.keys():
     print(item)
